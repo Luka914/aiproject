@@ -1,6 +1,4 @@
-# Bike Rental Demand Prediction **
-
-## Introduction **
+# Bike Rental Demand Prediction
 
 There are a lot of variables affecting the demand for bicycle rentals, including but not limited to time of the day, weather, and day of the week. The ability to foresee the fluctuations in demand would help bicycle sharing companies to be ready for busy periods.
 
@@ -10,7 +8,7 @@ Specifically, I will analyze the data and train a model based on Python. It will
 
 The main goal of the study is to get some hands-on knowledge in machine learning and understand the relationship between various variables and bicycle rental demand.
 
-## Dataset and Credit **
+## Dataset and Credit
 
 This project uses the [Bike Sharing Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset) from the UCI Machine Learning Repository.
 
