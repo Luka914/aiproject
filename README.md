@@ -8,6 +8,11 @@ Specifically, I will analyze the data and train a model based on Python. It will
 
 The main goal of the study is to get some hands-on knowledge in machine learning and understand the relationship between various variables and bicycle rental demand.
 
+## Project Demo
+
+<img width="541" height="430" alt="Animation" src="https://github.com/user-attachments/assets/ece72eeb-1573-4ee2-816e-ea860dd9bc5b" />
+
+
 ## Dataset and Credit
 
 This project uses the [Bike Sharing Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset) from the UCI Machine Learning Repository.
