@@ -13,6 +13,12 @@ Specifically, I will analyze the data and train a model based on Python. It will
 The main goal of the study is to get some hands-on knowledge in machine learning and understand the relationship between various variables and bicycle rental demand.
 
 
+## 📊 Model Performance
+I tested two models to see which was more accurate using Root Mean Squared Error (RMSE):
+
+Linear Regression: Built first to get a baseline score.
+
+Random Forest Regressor: Handled the non-linear weather patterns much better and dropped the RMSE, so this is the active model used in predict.py.
 
 
 ## Dataset and Credit
