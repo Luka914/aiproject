@@ -6,33 +6,36 @@ There are a lot of variables affecting the demand for bicycle rentals, including
 
 <img width="541" height="430" alt="Animation" src="https://github.com/user-attachments/assets/ece72eeb-1573-4ee2-816e-ea860dd9bc5b" />
 
+
 This research project will focus on training a machine learning model based on the past bicycle rental information provided for the city of Washington, D.C.
 
 Specifically, I will analyze the data and train a model based on Python. It will also include the comparison between predictions made by the model and the reality.
 
 The main goal of the study is to get some hands-on knowledge in machine learning and understand the relationship between various variables and bicycle rental demand.
 
-## Installation and Setup
+
+## Installation
 
 Clone the repository:
 
-  git clone [https://github.com/Luka914/aiproject.git](https://github.com/Luka914/aiproject.git)
+    git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/Luka914/aiproject.git)
 
 Enter the project directory:
 
-  cd aiproject
+    cd aiproject
 
 Install dependencies:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Train the model (you must do this first to generate the saved model file):
 
-  python train.py
+    python train.py
 
 Run the predictor:
 
-  python predict_updated.py
+    python predict_updated.py
+
 
 
 ## 📊 Model Performance
