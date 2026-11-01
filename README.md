@@ -12,6 +12,28 @@ Specifically, I will analyze the data and train a model based on Python. It will
 
 The main goal of the study is to get some hands-on knowledge in machine learning and understand the relationship between various variables and bicycle rental demand.
 
+## Installation and Setup
+
+Clone the repository:
+
+  git clone [https://github.com/Luka914/aiproject.git](https://github.com/Luka914/aiproject.git)
+
+Enter the project directory:
+
+  cd aiproject
+
+Install dependencies:
+
+  pip install -r requirements.txt
+
+Train the model (you must do this first to generate the saved model file):
+
+  python train.py
+
+Run the predictor:
+
+  python predict_updated.py
+
 
 ## 📊 Model Performance
 I tested two models to see which was more accurate using Root Mean Squared Error (RMSE):
