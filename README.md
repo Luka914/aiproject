@@ -11,8 +11,6 @@ This research project will focus on training a machine learning model based on t
 
 Specifically, I will analyze the data and train a model based on Python. It will also include the comparison between predictions made by the model and the reality.
 
-The main goal of the study is to get some hands-on knowledge in machine learning and understand the relationship between various variables and bicycle rental demand.
-
 
 ## Installation
 
